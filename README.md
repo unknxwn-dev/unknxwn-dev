@@ -1,6 +1,7 @@
 ## Hi there 👋
 --- 
-Find me here :
+#Find me here :
+- LinkedIn:
 - Telegram: unspoken_a
 - Email: I will send over messages
 - Website:
@@ -9,6 +10,9 @@ I currently am an undergraduate at Bayes Business School (formerly Cass) where I
 
 ---
 
+#Tech Stack
+Languages: Python (Pandas, matplotlib, NumPy), previously worked in R, HTML, Java and SQL ( I need to refresh and upload!) 
+Encryption: I am an avid user of PGP (find my public key below) 
 
 
 
